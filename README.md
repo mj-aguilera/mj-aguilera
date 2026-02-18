@@ -1,4 +1,5 @@
-<img width="691" height="198" alt="image" src="https://github.com/user-attachments/assets/fd6972af-33a1-4b9f-9053-4556afce2d25" />
+<img width="725" height="200" alt="image" src="https://github.com/user-attachments/assets/93b73bba-e20d-431c-a3b3-00e232247f3c" />
+
 
 # ¡Hola! Soy María José 👋
 
