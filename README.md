@@ -1,16 +1,27 @@
-## Hi there 👋
+<img width="691" height="198" alt="image" src="https://github.com/user-attachments/assets/fd6972af-33a1-4b9f-9053-4556afce2d25" />
 
-<!--
-**mj-aguilera/mj-aguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy María José 👋
 
-Here are some ideas to get you started:
+### Analista de Control de Gestión & Data Specialist 📊
+Analista de Presupuesto abocada al **Data Analytics**, con un enfoque sólido en la automatización de procesos y la creación de soluciones analíticas sobre **Power BI, SQL y Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+- ⚙️ **Especialidad:** Diseño de procesos ETL, modelos de datos y reportes presupuestarios de alto impacto.
+- 🎯 **Misión:** Optimizar los recursos organizacionales mediante análisis precisos para facilitar decisiones informadas.
+- 🤝 **Colaboración:** Trabajo estrechamente con equipos multidisciplinarios para alinear la tecnología con los objetivos de negocio.
+
+## 🛠️ Stack Tecnológico
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+## ✨ Lo que me caracteriza
+* **Adaptabilidad:** Capacidad de integración rápida a nuevas herramientas y metodologías.
+* **Calidad:** Foco en superar expectativas mediante soluciones innovadoras y eficientes.
+* **Eficiencia:** Mejora constante de la productividad mediante la automatización de flujos de trabajo.
+
+---
+📫 **Contacto:** majose.aguileran@gmail.com
