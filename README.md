@@ -1,5 +1,4 @@
-<img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" alt="banner">
-
+<img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_V1.jpg?raw=true" width="100%">
 # ¡Hola! Soy María José 👋
 ---
 #### 📊 Analista de Control de Gestión & Especialista en Datos  
