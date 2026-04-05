@@ -1,6 +1,7 @@
 <div align="center">
   <img src="URL_DE_TU_IMAGEN" width="100%" alt="Banner de MJ Aguilera">
 </div>
+
 ¡Hola! Soy María José 👋
 📊 Analista de Control de Gestión & Data Specialist
 con un enfoque sólido en la automatización de procesos y la creación de soluciones analíticas sobre **Power BI, SQL y Python**.
