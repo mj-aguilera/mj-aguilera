@@ -1,6 +1,20 @@
-<div align="center">
-  <img src="URL_DE_TU_IMAGEN" width="100%" alt="Banner de MJ Aguilera">
-</div>
+<table width="100%" style="border-collapse: collapse; border-spacing: 0; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0; margin: 0;">
+      <img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" style="display: block; margin: 0; padding: 0; border: none;">
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="left" style="border: none; padding: 0; margin: 0;">
+      <h1 style="margin: 10px 0 0 0; padding: 0; border: none; line-height: 1;">¡Hola! Soy María José 👋</h1>
+      <h3 style="margin: 5px 0 0 0; color: #555; font-weight: 400;">📊 Analista de Control de Gestión & Data Specialist</h3>
+    </td>
+  </tr>
+</table>
+
+---
+
+Analista de Presupuesto abocada al **Data Analytics**, con un enfoque sólido en la automatización de procesos y la creación de soluciones analíticas sobre **Power BI, SQL y Python**.
 
 ¡Hola! Soy María José 👋
 📊 Analista de Control de Gestión & Data Specialist
