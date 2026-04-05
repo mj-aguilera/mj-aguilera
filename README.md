@@ -1,4 +1,6 @@
-<img width="725" height="200" alt="image" src="https://github.com/user-attachments/assets/93b73bba-e20d-431c-a3b3-00e232247f3c" />
+<div align="center">
+  <img src="URL_DE_TU_IMAGEN" width="100%" alt="Banner de MJ Aguilera">
+</div>
 
 
 # ¡Hola! Soy María José 👋
