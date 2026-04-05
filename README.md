@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" style="display: block;">
+  <img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" style="display: block; max-height: 300px; object-fit: cover;">
 </div>
 
-<div style="margin-top: -80px;">
+<div style="position: relative; top: -60px; margin-bottom: -60px;">
 
 # ¡Hola! Soy María José 👋
-</div>
-### 📊 Analista de Control de Gestión & Data Specialist
+
+📊 Analista de Control de Gestión & Data Specialist
 Analista de Presupuesto abocada al **Data Analytics**, con un enfoque sólido en la automatización de procesos y la creación de soluciones analíticas sobre **Power BI, SQL y Python**.
 
 ---
