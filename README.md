@@ -1,5 +1,20 @@
-<img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" alt="Banner María José Aguilera">
+<table width="100%" style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; border: none;">
+  <tr>
+    <td align="center" style="padding: 0; margin: 0; border: none; line-height: 0;">
+      <img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" style="display: block; margin: 0; padding: 0; border: none;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="padding: 0; margin: 0; border: none;">
+      <h1 style="margin: 0; padding: 0; border: none; line-height: 0.8; vertical-align: top;">¡Hola! Soy María José 👋</h1>
+      <p style="margin: 5px 0 0 0; padding: 0; color: #555; font-size: 1.2em;"><strong>📊 Analista de Control de Gestión & Data Specialist</strong></p>
+    </td>
+  </tr>
+</table>
 
+---
+
+Analista de Presupuesto abocada al **Data Analytics**, con un enfoque sólido en la automatización de procesos y la creación de soluciones analíticas sobre **Power BI, SQL y Python**.
 ---
 
 Analista de Presupuesto abocada al **Data Analytics**, con un enfoque sólido en la automatización de procesos y la creación de soluciones analíticas sobre **Power BI, SQL y Python**.
