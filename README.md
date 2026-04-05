@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" style="display: block; margin-bottom: -5%;">
+<div align="center" style="margin-bottom: -60px;">
+  <img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" style="display: block;">
 </div>
 
 # ¡Hola! Soy María José 👋
