@@ -1,10 +1,10 @@
 <img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_V1.jpg?raw=true" width="100%">
 
 # ¡Hola! Soy María José 👋
----
-
 ### 📊 Analista de Control de Gestión & Especialista en Datos
 Con un enfoque sólido en la automatización de procesos y la creación de soluciones analíticas sobre **Power BI, SQL y Python**.
+
+---
 
 ## 🚀 Sobre mí
 * **✨ Especialidad:** Diseño de procesos ETL, modelos de datos y reportes presupuestarios de alto impacto.
