@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN" width="100%" alt="Banner de MJ Aguilera">
+  <img src="./banner_mj_aguilera.png" width="100%" alt="Banner de María José Aguilera">
 </div>
+
+<br>
 
 
 # ¡Hola! Soy María José 👋
