@@ -1,9 +1,15 @@
-<div align="center">
-  <img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" style="display: block; max-height: 300px; object-fit: cover;">
-</div>
-
-<div style="position: relative; top: -60px; margin-bottom: -60px;">
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github.com/mj-aguilera/mj-aguilera/blob/main/Banner_.jpg?raw=true" width="100%" style="display: block;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none; padding-top: 10px;">
+      <h1>¡Hola! Soy María José 👋</h1>
+    </td>
+  </tr>
+</table>
 # ¡Hola! Soy María José 👋
 
 📊 Analista de Control de Gestión & Data Specialist
